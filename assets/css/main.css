@@ -239,7 +239,7 @@ input, select, textarea {
 
 	code {
 		border: solid 2px;
-		font-family: "Courier New", monospace;
+		font-family: 'Source Sans Pro', Sans-Serif;
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -247,7 +247,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: 'Source Sans Pro', Sans-Serif;
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 	}
