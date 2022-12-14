@@ -2523,23 +2523,23 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: #fbfaf9 !important;
+		color: #231f20 !important;
 	}
 
 	:-moz-placeholder {
-		color: #fbfaf9 !important;
+		color: #231f20 !important;
 	}
 
 	::-moz-placeholder {
-		color: #fbfaf9 !important;
+		color: #231f20 !important;
 	}
 
 	:-ms-input-placeholder {
-		color: #fbfaf9 !important;
+		color: #231f20 !important;
 	}
 
 	.formerize-placeholder {
-		color: #fbfaf9 !important;
+		color: #231f20 !important;
 	}
 
 /* Icon */
