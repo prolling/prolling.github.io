@@ -2476,7 +2476,7 @@ input, select, textarea {
 	input[type="email"],
 	select,
 	textarea {
-		border-color: #ffffff;
+		border-color: #231f20;
 	}
 
 		input[type="text"]:focus,
